@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f509f09fa717d6c67ccc8ec100132e4",
+    "revision": "9e84298c884de646e222b9cbab883ccf",
     "url": "/plswork/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plswork/static/css/2.bcdac70f.chunk.css"
   },
   {
-    "revision": "6f0ef197cba7c278a9be",
+    "revision": "0aa3dda1b50487c0cf2a",
     "url": "/plswork/static/css/main.9c23a623.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plswork/static/js/2.5dc257cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f0ef197cba7c278a9be",
-    "url": "/plswork/static/js/main.26f806a9.chunk.js"
+    "revision": "0aa3dda1b50487c0cf2a",
+    "url": "/plswork/static/js/main.4df9dbd9.chunk.js"
   },
   {
     "revision": "ef8176c4dcaf493de26c",
