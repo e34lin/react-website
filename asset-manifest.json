@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/plswork/static/css/main.9c23a623.chunk.css",
-    "main.js": "/plswork/static/js/main.63634839.chunk.js",
-    "main.js.map": "/plswork/static/js/main.63634839.chunk.js.map",
+    "main.js": "/plswork/static/js/main.14a6a833.chunk.js",
+    "main.js.map": "/plswork/static/js/main.14a6a833.chunk.js.map",
     "runtime-main.js": "/plswork/static/js/runtime-main.2547dec7.js",
     "runtime-main.js.map": "/plswork/static/js/runtime-main.2547dec7.js.map",
     "static/css/2.bcdac70f.chunk.css": "/plswork/static/css/2.bcdac70f.chunk.css",
     "static/js/2.c0ba3bc3.chunk.js": "/plswork/static/js/2.c0ba3bc3.chunk.js",
     "static/js/2.c0ba3bc3.chunk.js.map": "/plswork/static/js/2.c0ba3bc3.chunk.js.map",
     "index.html": "/plswork/index.html",
-    "precache-manifest.6f5f7327f86cb7fcf13c4be06e3322cb.js": "/plswork/precache-manifest.6f5f7327f86cb7fcf13c4be06e3322cb.js",
+    "precache-manifest.6758a4630de6f5c9bd7a007217ee55a4.js": "/plswork/precache-manifest.6758a4630de6f5c9bd7a007217ee55a4.js",
     "service-worker.js": "/plswork/service-worker.js",
     "static/css/2.bcdac70f.chunk.css.map": "/plswork/static/css/2.bcdac70f.chunk.css.map",
     "static/css/main.9c23a623.chunk.css.map": "/plswork/static/css/main.9c23a623.chunk.css.map",
@@ -28,7 +28,6 @@
     "static/media/gif1.gif": "/plswork/static/media/gif1.4521a02e.gif",
     "static/media/gif2.gif": "/plswork/static/media/gif2.d839150b.gif",
     "static/media/me.jpg": "/plswork/static/media/me.1a15c1d2.jpg",
-    "static/media/myresume.pdf": "/plswork/static/media/myresume.c42037ed.pdf",
     "static/media/pet1.JPG": "/plswork/static/media/pet1.cd28ed77.JPG",
     "static/media/pet2.JPG": "/plswork/static/media/pet2.1069c084.JPG",
     "static/media/pet3.JPG": "/plswork/static/media/pet3.df6b7393.JPG",
@@ -39,6 +38,7 @@
     "static/media/pic2.JPG": "/plswork/static/media/pic2.6b48288b.JPG",
     "static/media/pic3.jpg": "/plswork/static/media/pic3.352d4d72.jpg",
     "static/media/pic4.jpg": "/plswork/static/media/pic4.01fd433d.jpg",
+    "static/media/resume.jpg": "/plswork/static/media/resume.766434d7.jpg",
     "static/media/slick-theme.css": "/plswork/static/media/slick.f97e3bbf.svg",
     "static/media/travel1.jpg": "/plswork/static/media/travel1.a066e2e6.jpg",
     "static/media/travel2.jpg": "/plswork/static/media/travel2.63e3f2eb.jpg",
@@ -53,6 +53,6 @@
     "static/css/2.bcdac70f.chunk.css",
     "static/js/2.c0ba3bc3.chunk.js",
     "static/css/main.9c23a623.chunk.css",
-    "static/js/main.63634839.chunk.js"
+    "static/js/main.14a6a833.chunk.js"
   ]
 }
