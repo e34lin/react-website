@@ -2,6 +2,8 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
+import resume from "../pics/myresume.pdf";
+
 class Resume extends React.Component {
 
     render()  {
@@ -10,7 +12,7 @@ class Resume extends React.Component {
         return(
             <Container fluid={true}>
                 <Row className="justify-content-around">
-                    <object data='myresume.pdf' type="application/pdf" width='750' height='1020'>My Resume Displayed</object>
+                    <object src={resume} width='750' height='1020'>My Resume Displayed</object>
                 </Row>
             </Container>
 
