@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67b0ddeec732c6c166dd286390656aad",
+    "revision": "4f509f09fa717d6c67ccc8ec100132e4",
     "url": "/plswork/index.html"
   },
   {
-    "revision": "634e1014de5c95b9dad6",
+    "revision": "2384ecbd2c38cd9e6e07",
     "url": "/plswork/static/css/2.bcdac70f.chunk.css"
   },
   {
-    "revision": "811cd0911685ce7fa429",
+    "revision": "6f0ef197cba7c278a9be",
     "url": "/plswork/static/css/main.9c23a623.chunk.css"
   },
   {
-    "revision": "634e1014de5c95b9dad6",
-    "url": "/plswork/static/js/2.c0ba3bc3.chunk.js"
+    "revision": "2384ecbd2c38cd9e6e07",
+    "url": "/plswork/static/js/2.5dc257cb.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/plswork/static/js/2.c0ba3bc3.chunk.js.LICENSE.txt"
+    "url": "/plswork/static/js/2.5dc257cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "811cd0911685ce7fa429",
-    "url": "/plswork/static/js/main.14a6a833.chunk.js"
+    "revision": "6f0ef197cba7c278a9be",
+    "url": "/plswork/static/js/main.26f806a9.chunk.js"
   },
   {
     "revision": "ef8176c4dcaf493de26c",
