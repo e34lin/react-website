@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/plswork/static/css/main.9c23a623.chunk.css",
-    "main.js": "/plswork/static/js/main.4df9dbd9.chunk.js",
-    "main.js.map": "/plswork/static/js/main.4df9dbd9.chunk.js.map",
+    "main.js": "/plswork/static/js/main.17b0c4f8.chunk.js",
+    "main.js.map": "/plswork/static/js/main.17b0c4f8.chunk.js.map",
     "runtime-main.js": "/plswork/static/js/runtime-main.2547dec7.js",
     "runtime-main.js.map": "/plswork/static/js/runtime-main.2547dec7.js.map",
-    "static/css/2.bcdac70f.chunk.css": "/plswork/static/css/2.bcdac70f.chunk.css",
-    "static/js/2.5dc257cb.chunk.js": "/plswork/static/js/2.5dc257cb.chunk.js",
-    "static/js/2.5dc257cb.chunk.js.map": "/plswork/static/js/2.5dc257cb.chunk.js.map",
+    "static/css/2.e47307c3.chunk.css": "/plswork/static/css/2.e47307c3.chunk.css",
+    "static/js/2.c0ba3bc3.chunk.js": "/plswork/static/js/2.c0ba3bc3.chunk.js",
+    "static/js/2.c0ba3bc3.chunk.js.map": "/plswork/static/js/2.c0ba3bc3.chunk.js.map",
     "index.html": "/plswork/index.html",
-    "precache-manifest.525fc492688da076186d04f5f398a9a2.js": "/plswork/precache-manifest.525fc492688da076186d04f5f398a9a2.js",
+    "precache-manifest.7a6075e52ce84b5c738d78cb3a5922a0.js": "/plswork/precache-manifest.7a6075e52ce84b5c738d78cb3a5922a0.js",
     "service-worker.js": "/plswork/service-worker.js",
-    "static/css/2.bcdac70f.chunk.css.map": "/plswork/static/css/2.bcdac70f.chunk.css.map",
+    "static/css/2.e47307c3.chunk.css.map": "/plswork/static/css/2.e47307c3.chunk.css.map",
     "static/css/main.9c23a623.chunk.css.map": "/plswork/static/css/main.9c23a623.chunk.css.map",
-    "static/js/2.5dc257cb.chunk.js.LICENSE.txt": "/plswork/static/js/2.5dc257cb.chunk.js.LICENSE.txt",
+    "static/js/2.c0ba3bc3.chunk.js.LICENSE.txt": "/plswork/static/js/2.c0ba3bc3.chunk.js.LICENSE.txt",
     "static/media/food1.JPG": "/plswork/static/media/food1.10b08836.JPG",
     "static/media/food10.JPG": "/plswork/static/media/food10.eb474a4d.JPG",
     "static/media/food11.JPG": "/plswork/static/media/food11.3f28331a.JPG",
@@ -50,9 +50,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2547dec7.js",
-    "static/css/2.bcdac70f.chunk.css",
-    "static/js/2.5dc257cb.chunk.js",
+    "static/css/2.e47307c3.chunk.css",
+    "static/js/2.c0ba3bc3.chunk.js",
     "static/css/main.9c23a623.chunk.css",
-    "static/js/main.4df9dbd9.chunk.js"
+    "static/js/main.17b0c4f8.chunk.js"
   ]
 }
