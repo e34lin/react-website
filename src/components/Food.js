@@ -16,8 +16,8 @@ import food10  from "../pics/food/food10.JPG";
 import food11  from "../pics/food/food11.JPG";
 
 
-
 export default class Multiple extends Component {
+
   render() {
     const settings = {
         dots: true,
@@ -28,7 +28,7 @@ export default class Multiple extends Component {
 
         responsive: [
           {
-            breakpoint: 1350, // width to change options
+            breakpoint: 1350,
             settings: {
               slidesToShow: 2,
               slidesToScroll: 1,

@@ -15,7 +15,7 @@ function HomePage(props) {
                 I AM ELIZABETH,
             </p>
             <p>
-                WELCOME :) 
+                WELCOME :)
             </p>
 
             </div>

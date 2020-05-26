@@ -8,6 +8,7 @@ import {
 
 
 export default function SocialFollow() {
+    
     return (
         <div class='social-container'>
 
@@ -23,9 +24,6 @@ export default function SocialFollow() {
                 <FontAwesomeIcon icon={faInstagram} />
             </a>
 
-           
-            
-            
         </div>
     )
 }

@@ -14,8 +14,6 @@ function Content(props) {
             </Row>
         </Container>
     )
-
-
 }
 
 export default Content;

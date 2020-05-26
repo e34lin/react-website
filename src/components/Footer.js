@@ -6,11 +6,7 @@ import Col from 'react-bootstrap/Col';
 import SocialMedia from '../components/SocialMedia';
 
 
-
-
 function Footer() {
-
-
 
     return(
         <footer className="footer mt-5 bg-light text-dark">
@@ -21,12 +17,11 @@ function Footer() {
                     </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
                         © 2020 Elizabeth Lin
-                  </Col>
+                    </Col>
                 </Row>
             </Container>
         </footer>
     )
-
 }
 
 export default Footer;

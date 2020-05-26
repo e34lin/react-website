@@ -12,6 +12,7 @@ import donut from "../pics/art/gif2.gif";
 
 
 export default class Fade extends Component {
+  
   render() {
     const settings = {
         dots: true,
@@ -22,7 +23,7 @@ export default class Fade extends Component {
 
         responsive: [
           {
-            breakpoint: 1350, // width to change options
+            breakpoint: 1350,
             settings: {
               slidesToShow: 2,
               slidesToScroll: 1,
