@@ -1,9 +1,5 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
-import "/Users/elizabethlin/Desktop/Building Website/my-app/node_modules/slick-carousel/slick/slick.css"; 
-import "/Users/elizabethlin/Desktop/Building Website/my-app/node_modules/slick-carousel/slick/slick-theme.css";
-
-
 
 import food1  from "../pics/food/food1.JPG";
 import food2  from "../pics/food/food2.JPG";

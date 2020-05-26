@@ -6,36 +6,36 @@ function HomePage(props) {
 
     return(
         <Content>
-        <br></br>
-        <div class="center css-typing">
-        <p>
-            HELLO THERE!
-        </p>
-        <p>
-            I AM ELIZABETH,
-        </p>
-        <p>
-            WELCOME :) 
-        </p>
+            <br></br>
+            <div class="center css-typing">
+            <p>
+                HELLO THERE!
+            </p>
+            <p>
+                I AM ELIZABETH,
+            </p>
+            <p>
+                WELCOME :) 
+            </p>
 
-        </div>
+            </div>
 
 
-       
-        <div class="area p-0" >
-            <ul class="circles">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-            </ul>
-        </div >
+        
+            <div class="area p-0" >
+                <ul class="circles">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                </ul>
+            </div >
 
         </Content>
         

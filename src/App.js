@@ -61,7 +61,7 @@ class App extends  React.Component {
             <Navbar.Collapse id="navbar-toggle">
 
               <Nav className="ml-auto">
-                <Link className='nav-link'to="/">Home</Link>
+                <Link className='nav-link'to="/plswork">Home</Link>
                 <Link className='nav-link'to="/about">About</Link>
                 <Link className='nav-link'to="/resume">Resume</Link>
                 <Link className='nav-link'to="/funthings">Photos</Link>
@@ -77,7 +77,7 @@ class App extends  React.Component {
 
         </Container>
 
-        <Route path="/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
+        <Route path="/plswork" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
           <Route path="/resume" render={() => <ResumePage title={this.state.resume.title} /> } />
           <Route path="/about" render={() => <AboutPage title={this.state.about.title} /> } />
           <Route path="/funthings" render={() => <FunPage title={this.state.fun.title} /> } />
