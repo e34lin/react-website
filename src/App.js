@@ -52,7 +52,21 @@ class App extends  React.Component {
     return (
       
       <Router>
-        <Container className="p-0" fluid={true}>
+        <Container className="p-0" fluid={true}> 
+          <div class="area p-0" >
+            <ul class="circles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+            </ul>
+          </div >
           
           <Navbar className="border-bottom" bg="light"  expand='lg'>
             <Navbar.Brand>Elizabeth Lin</Navbar.Brand>
@@ -75,7 +89,7 @@ class App extends  React.Component {
 
          
 
-        </Container>
+        </Container>       
 
         <Route path="/plswork" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
           <Route path="/plswork/resume" render={() => <ResumePage title={this.state.resume.title} /> } />

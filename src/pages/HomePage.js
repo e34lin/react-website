@@ -20,23 +20,6 @@ function HomePage(props) {
 
             </div>
 
-
-        
-            <div class="area p-0" >
-                <ul class="circles">
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                </ul>
-            </div >
-
         </Content>
         
        

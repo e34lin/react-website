@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 
 import travel1  from "../pics/travel/travel1.jpg";
 import travel2  from "../pics/travel/travel2.jpg";

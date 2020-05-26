@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
-import "/Users/elizabethlin/Desktop/Building Website/my-app/node_modules/slick-carousel/slick/slick.css"; 
-import "/Users/elizabethlin/Desktop/Building Website/my-app/node_modules/slick-carousel/slick/slick-theme.css";
-
-
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 
 import pet1  from "../pics/dogs/pet1.JPG";
 import pet2  from "../pics/dogs/pet2.JPG";

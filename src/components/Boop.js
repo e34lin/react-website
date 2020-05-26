@@ -17,20 +17,6 @@ function Boop(props) {
                         { props.subTitle && <h3 className='display-10 font-weight-light'>{props.subTitle}</h3> }
                         { props.text && <h3 className='lead font-weight-light'>{props.text}</h3> }
 
-                        <div class="area p-0" >
-                            <ul class="circles">
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                                    <li></li>
-                            </ul>
-                        </div >
                     </Col>
                 </Row>
             </Container>

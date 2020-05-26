@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 
 import food1  from "../pics/food/food1.JPG";
 import food2  from "../pics/food/food2.JPG";
@@ -12,6 +14,7 @@ import food8  from "../pics/food/food8.jpg";
 import food9  from "../pics/food/food9.JPG";
 import food10  from "../pics/food/food10.JPG";
 import food11  from "../pics/food/food11.JPG";
+
 
 
 export default class Multiple extends Component {
