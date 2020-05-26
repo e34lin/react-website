@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/plswork/static/css/main.bf1a411d.chunk.css",
-    "main.js": "/plswork/static/js/main.0d7b9e1a.chunk.js",
-    "main.js.map": "/plswork/static/js/main.0d7b9e1a.chunk.js.map",
+    "main.css": "/plswork/static/css/main.9c23a623.chunk.css",
+    "main.js": "/plswork/static/js/main.63634839.chunk.js",
+    "main.js.map": "/plswork/static/js/main.63634839.chunk.js.map",
     "runtime-main.js": "/plswork/static/js/runtime-main.2547dec7.js",
     "runtime-main.js.map": "/plswork/static/js/runtime-main.2547dec7.js.map",
     "static/css/2.bcdac70f.chunk.css": "/plswork/static/css/2.bcdac70f.chunk.css",
-    "static/js/2.8811ad12.chunk.js": "/plswork/static/js/2.8811ad12.chunk.js",
-    "static/js/2.8811ad12.chunk.js.map": "/plswork/static/js/2.8811ad12.chunk.js.map",
+    "static/js/2.c0ba3bc3.chunk.js": "/plswork/static/js/2.c0ba3bc3.chunk.js",
+    "static/js/2.c0ba3bc3.chunk.js.map": "/plswork/static/js/2.c0ba3bc3.chunk.js.map",
     "index.html": "/plswork/index.html",
-    "precache-manifest.e8046e93df602471c789e39e3d4eac43.js": "/plswork/precache-manifest.e8046e93df602471c789e39e3d4eac43.js",
+    "precache-manifest.6f5f7327f86cb7fcf13c4be06e3322cb.js": "/plswork/precache-manifest.6f5f7327f86cb7fcf13c4be06e3322cb.js",
     "service-worker.js": "/plswork/service-worker.js",
     "static/css/2.bcdac70f.chunk.css.map": "/plswork/static/css/2.bcdac70f.chunk.css.map",
-    "static/css/main.bf1a411d.chunk.css.map": "/plswork/static/css/main.bf1a411d.chunk.css.map",
-    "static/js/2.8811ad12.chunk.js.LICENSE.txt": "/plswork/static/js/2.8811ad12.chunk.js.LICENSE.txt",
+    "static/css/main.9c23a623.chunk.css.map": "/plswork/static/css/main.9c23a623.chunk.css.map",
+    "static/js/2.c0ba3bc3.chunk.js.LICENSE.txt": "/plswork/static/js/2.c0ba3bc3.chunk.js.LICENSE.txt",
     "static/media/food1.JPG": "/plswork/static/media/food1.10b08836.JPG",
     "static/media/food10.JPG": "/plswork/static/media/food10.eb474a4d.JPG",
     "static/media/food11.JPG": "/plswork/static/media/food11.3f28331a.JPG",
@@ -28,6 +28,7 @@
     "static/media/gif1.gif": "/plswork/static/media/gif1.4521a02e.gif",
     "static/media/gif2.gif": "/plswork/static/media/gif2.d839150b.gif",
     "static/media/me.jpg": "/plswork/static/media/me.1a15c1d2.jpg",
+    "static/media/myresume.pdf": "/plswork/static/media/myresume.c42037ed.pdf",
     "static/media/pet1.JPG": "/plswork/static/media/pet1.cd28ed77.JPG",
     "static/media/pet2.JPG": "/plswork/static/media/pet2.1069c084.JPG",
     "static/media/pet3.JPG": "/plswork/static/media/pet3.df6b7393.JPG",
@@ -50,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.2547dec7.js",
     "static/css/2.bcdac70f.chunk.css",
-    "static/js/2.8811ad12.chunk.js",
-    "static/css/main.bf1a411d.chunk.css",
-    "static/js/main.0d7b9e1a.chunk.js"
+    "static/js/2.c0ba3bc3.chunk.js",
+    "static/css/main.9c23a623.chunk.css",
+    "static/js/main.63634839.chunk.js"
   ]
 }
