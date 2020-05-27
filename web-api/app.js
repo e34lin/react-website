@@ -23,7 +23,7 @@ app.get('/api', (req, res, next) => {
 
 app.post('/api/email', (req, res, next) => {
 
-    sendGrid.setApiKey('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');
+    sendGrid.setApiKey('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');
     const msg = {
         to: 'e34lin@uwaterloo.ca',
         from: req.body.email,

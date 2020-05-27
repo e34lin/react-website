@@ -133,13 +133,13 @@ img {
 }
 
 .e-card-title {
-  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-family: 'Be Vietnam', sans-serif;
   font-size: 24px;
   margin: 0px;
 }
 
 .e-card-sub-title {
-  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-family: 'Be Vietnam', sans-serif;
   font-size: 16px;
   margin: 0px;
 }
@@ -363,6 +363,7 @@ body{
   justify-content: center;
   align-self: center;
 }
+
 .css-typing p:nth-child(1) {
   width: 7.3em;
   -webkit-animation: type 2s steps(40, end);

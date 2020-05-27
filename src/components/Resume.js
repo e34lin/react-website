@@ -7,8 +7,6 @@ import resume from "../pics/resume.jpg";
 class Resume extends React.Component {
 
     render()  {
-
-
         return(
             <Container fluid={true}>
                 <Row className="justify-content-around">

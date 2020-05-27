@@ -49,7 +49,6 @@ class Carousel extends React.Component{
         })
     }
 
-
     render() {
         return(
             
