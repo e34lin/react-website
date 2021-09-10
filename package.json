@@ -1,6 +1,6 @@
 {
-  "homepage": "http://elizabethlin.me",
-  "name": "elizabethlin.me",
+  "homepage": "https://e34lin.github.io/react-website/",
+  "name": "react-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
