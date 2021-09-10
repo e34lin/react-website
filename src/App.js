@@ -75,11 +75,11 @@ class App extends  React.Component {
             <Navbar.Collapse id="navbar-toggle">
 
               <Nav className="ml-auto">
-                <Link className='nav-link'to="elizabethlin.me">Home</Link>
-                <Link className='nav-link'to="elizabethlin.me/about">About</Link>
-                <Link className='nav-link'to="elizabethlin.me/resume">Resume</Link>
-                <Link className='nav-link'to="elizabethlin.me/funthings">Photos</Link>
-                <Link className='nav-link'to="elizabethlin.me/contact">Contact</Link>
+                <Link className='nav-link'to="/react-website">Home</Link>
+                <Link className='nav-link'to="/react-website/about">About</Link>
+                <Link className='nav-link'to="/react-website/resume">Resume</Link>
+                <Link className='nav-link'to="/react-website/funthings">Photos</Link>
+                <Link className='nav-link'to="/react-website/contact">Contact</Link>
 
 
                 
@@ -91,11 +91,11 @@ class App extends  React.Component {
 
         </Container>       
 
-        <Route path="elizabethlin.me" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
-          <Route path="elizabethlin.me/resume" render={() => <ResumePage title={this.state.resume.title} /> } />
-          <Route path="elizabethlin.me/about" render={() => <AboutPage title={this.state.about.title} /> } />
-          <Route path="elizabethlin.me/funthings" render={() => <FunPage title={this.state.fun.title} /> } />
-          <Route path="elizabethlin.me/contact" render={() => <ContactPage title={this.state.contact.title} subTitle={this.state.contact.subTitle}/> } />
+        <Route path="/react-website" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
+          <Route path="/react-website/resume" render={() => <ResumePage title={this.state.resume.title} /> } />
+          <Route path="/react-website/about" render={() => <AboutPage title={this.state.about.title} /> } />
+          <Route path="/react-website/funthings" render={() => <FunPage title={this.state.fun.title} /> } />
+          <Route path="/react-website/contact" render={() => <ContactPage title={this.state.contact.title} subTitle={this.state.contact.subTitle}/> } />
           <br></br>
           <Footer/>
 
