@@ -75,7 +75,7 @@ class App extends  React.Component {
             <Navbar.Collapse id="navbar-toggle">
 
               <Nav className="ml-auto">
-                <Link className='nav-link'to="elizabethlin.me/">Home</Link>
+                <Link className='nav-link'to="elizabethlin.me">Home</Link>
                 <Link className='nav-link'to="elizabethlin.me/about">About</Link>
                 <Link className='nav-link'to="elizabethlin.me/resume">Resume</Link>
                 <Link className='nav-link'to="elizabethlin.me/funthings">Photos</Link>
@@ -91,7 +91,7 @@ class App extends  React.Component {
 
         </Container>       
 
-        <Route path="elizabethlin.me/" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
+        <Route path="elizabethlin.me" exact render={() => <HomePage title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text}/> } />
           <Route path="elizabethlin.me/resume" render={() => <ResumePage title={this.state.resume.title} /> } />
           <Route path="elizabethlin.me/about" render={() => <AboutPage title={this.state.about.title} /> } />
           <Route path="elizabethlin.me/funthings" render={() => <FunPage title={this.state.fun.title} /> } />
